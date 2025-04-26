@@ -1,9 +1,6 @@
 package com.kishan.blogappapis.payloads;
 
 import jakarta.validation.constraints.*;
-import lombok.Getter;
-import lombok.NoArgsConstructor;
-import lombok.Setter;
 
 
 public class UserDto {
